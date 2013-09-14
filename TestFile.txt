@@ -1,1 +1,0 @@
-Checking that members can send pull requests without owner approval.

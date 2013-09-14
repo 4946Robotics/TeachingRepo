@@ -1,6 +1,7 @@
 - [x] Add TODO.md
 - [x] Add USINGGITHUB.md
-- [ ] Make Autonomous repo
-- [ ] Make Teleop repo
+- [x] Make Autonomous repo
+- [x] Make Teleop repo
+- [ ] Email everyone that this exists
 - [ ] Everyone has a github account
 - [ ] Everyone in programming squad is an owner

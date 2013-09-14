@@ -26,6 +26,9 @@ Note: Everyone will be an owner of this group. That means everyone is an admin. 
 Setting Up Git
 ==============
 
-* If you plan to work on programs at home (that means either having an nxt and some parts to test with, or being able to program without them): https://help.github.com/articles/set-up-git (press the big green/orange button at the top)
-* If you are only going to do programming at school (during the work sessions), don't bother downloading the application. It will be much easier to use the website to upload individual files directly.
+* If you plan to work on programs at home (that means either having an nxt and some parts to test with, or being able to program without them) click [here] [1]  (press the big green/orange button at the top)
+* If you are only going to do programming at school (during the work sessions), don't bother downloading the application. It will be much easier to use the website to upload individual files directly. They call it [GitHub Flow] [2].
 
+
+  [1]: https://help.github.com/articles/set-up-git "Setting up"
+  [2]: https://github.com/blog/1557-github-flow-in-the-browser "GitHub Flow"

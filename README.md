@@ -19,6 +19,8 @@ Signing Up
 Format your account name as “FirstnameLastname” (without quotes) to prevent confusion.
 Send a link to your account to alex.lamson@gmail.com and I'll add you into the group.
 
+Note: Everyone will be an owner of this group. That means everyone is an admin. Please be careful not to accidently change billing $100/month or something like that.
+
 
 Setting Up Git
 ==============

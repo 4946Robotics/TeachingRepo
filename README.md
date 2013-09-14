@@ -1,7 +1,7 @@
 TeachingRepo
 ============
 
-A test repository to learn how github works
+A test repository for getting used to how github works
 
 What is Git? What is Github?
 ============================
@@ -18,6 +18,7 @@ Signing Up
 
 Format your account name as “FirstnameLastname” (without quotes) to prevent confusion.
 Send a link to your account to alex.lamson@gmail.com and I'll add you into the group.
+A profile picture is not necessary, but would be helpful.
 
 Note: Everyone will be an owner of this group. That means everyone is an admin. Please be careful not to accidently change billing $100/month or something like that.
 

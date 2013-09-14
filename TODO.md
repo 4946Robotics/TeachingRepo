@@ -1,5 +1,5 @@
-- [X] Add TODO.md
-- [ ] Add USINGGITHUB.md
+- [x] Add TODO.md
+- [x] Add USINGGITHUB.md
 - [ ] Make Autonomous repo
 - [ ] Make Teleop repo
 - [ ] Everyone has a github account

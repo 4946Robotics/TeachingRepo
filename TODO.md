@@ -2,6 +2,6 @@
 - [x] Add USINGGITHUB.md
 - [x] Make Autonomous repo
 - [x] Make Teleop repo
-- [ ] Email everyone that this exists
+- [x] Email everyone that this exists
 - [ ] Everyone has a github account
 - [ ] Everyone in programming squad is an owner

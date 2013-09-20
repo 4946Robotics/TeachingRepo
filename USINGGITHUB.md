@@ -1,24 +1,24 @@
 Repository
 ==========
-As repository (usually abbreviated to repo) basically is a project contianing a bunch of source files.
-
-
-Commit
-======
-A change to the repository. After you are done making changes, you submit your changes with a brief description of what was add, removed and modified.
+A repository (usually abbreviated to repo) is basically a project containing a bunch of source files.
 
 
 Branch
 ======
-Instead of using a linear system of versioning, git uses "branches".
-Each branch is a copy of the repo, with some changes.
-The advantage is that its much easier to isolate specific changes, and test many changes simultaneously.
+Instead of using a linear system of versioning, Git uses "branches".
+Branches let you test ideas without bringing them into the offical program. They also let you introduce them into the offical program (when the changes are ready) quite easily.
+The offical branch is called the master branch.
+
+Commit
+======
+A submission of changes to make in the branch. Generally also contains brief summary of what was added, removed or modified.
 
 
 Pull Request
 ============
-A proposed set of changes.
+A proposed set of changes sent to the author.
+
 
 Push
 ====
-When a set of changes gets applied to the actual branch.
+When a set of changes gets applied to the branch. Everyone will download the new version over their old copies when this happens.

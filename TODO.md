@@ -1,8 +1,0 @@
-- [x] Add TODO.md
-- [x] Add USINGGITHUB.md
-- [x] Make Autonomous repo
-- [x] Make Teleop repo
-- [x] Email everyone that this exists
-- [x] Delete Autonomous repo and change Teleop repo to 2013-14 Block Party repo
-- [ ] Everyone has a github account
-- [ ] Everyone in programming squad is an owner

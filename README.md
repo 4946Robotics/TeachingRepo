@@ -27,8 +27,8 @@ Note: Everyone will be an owner of this group. That means everyone is an admin. 
 Setting Up Git
 ==============
 
-* If you plan to work on programs at home (that means either having an NXT and some parts to test with, or being able to program without them) [download the GitHub application] [2] (press the big green/orange button at the top)
-* If you are only going to program during the work sessions (which is more likely) and won't be bringing your computer to each session, don't bother downloading the application. You can use the robotics computer to edit code, and use the website to change notes. Using the website is called  [GitHub Flow] [3].
+* If you plan to **program at home** (that means either having an NXT and some parts to test with, or being able to program without them) [download the GitHub application] [2] (press the big green/orange button at the top)
+* If you are only going to **program during the work sessions** (which is more likely) and won't be bringing your computer to each session, don't bother downloading the application. You can use the robotics computer to edit code and use the website to change notes. Using the website is called  [GitHub Flow] [3].
 
 
   [1]: https://github.com/4946Robotics/TeachingRepo/blob/master/USINGGITHUB.md "Using GitHub"
